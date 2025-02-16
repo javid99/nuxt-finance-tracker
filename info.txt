@@ -1,0 +1,3 @@
+database password: efC3CAf8PpIviqt1
+url: https://katmisawcvkduvvdkbzn.supabase.co
+key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImthdG1pc2F3Y3ZrZHV2dmRrYnpuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg2Njk3OTQsImV4cCI6MjA1NDI0NTc5NH0.eodpjH1lv4CVDp4iOogURL9DSlyFBLj9R2zgWnQdbMM
